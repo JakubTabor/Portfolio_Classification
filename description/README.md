@@ -44,7 +44,11 @@
 # My model its not perfect, but we can notice the right trend on the graph
 * I also check predictions with predictions of my model and true values, I need to change predicted values to argmax, to be i right range
 
+
+
 # NOW I GONNA DESCRIBE IN DETAILS HOW FUNCTION TRANSFER LEARNING MODEL
+
+
 
 # First i load pretrained model and save it as "feature_extractor_model"
 
